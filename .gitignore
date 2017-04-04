@@ -7,3 +7,6 @@ temp
 .buildpath
 .settings
 .DS_Store
+lib/*
+plugins/*
+docs/*
