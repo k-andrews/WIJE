@@ -7,8 +7,27 @@
 
 Added project to git repo with the following changes from stock OJS:
 
-* Added bootstrap plugin theme
+* Added [bootstrap plugin theme](https://github.com/NateWr/bootstrap3#installation)
 * Added static pages: About, Editorial Team, Submissions, Contact [etc](http://138.197.231.114/ojs/index.php/testj/management/settings/website)
-* Altered N[avBar](https://github.com/Snickdx/WIJE/blob/master/templates/frontend/components/primaryNavMenu.tpl) to link to static pages (TODO: re implement using the templating engine)
+* Altered [NavBar](https://github.com/Snickdx/WIJE/blob/master/plugins/themes/bootstrap3/templates/frontend/components/primaryNavMenu.tpl) to link to static pages 
+```
+      <li>
+        <a href="http://snickdx.me/ojs/index.php/testj/advisors">
+          International Advisory Committee
+        </a>
+      </li>
+      <li>
+        <a href="http://snickdx.me/ojs/index.php/testj/editorial">
+          Editorial Board
+        </a>
+      </li>
+      <li>
+        <a href="http://snickdx.me/ojs/index.php/testj/staff">
+          Editorial Sub Committee
+        </a>
+      </li>
+```
+
+(TODO: re implement using the templating engine)
 * Removed the information block plugin
 * Currenlty Working On: Creating A Custom Plugin for notification side bar.
