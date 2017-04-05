@@ -30,4 +30,4 @@ Added project to git repo with the following changes from stock OJS:
 
 (TODO: re implement using the templating engine)
 * Removed the information block plugin
-* Currenlty Working On: Creating A Custom Plugin for notification side bar.
+* Currently Working On: Creating A Custom Plugin for notification side bar.
