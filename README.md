@@ -1,4 +1,4 @@
-#West Indian Journal of Engineering Project
+# West Indian Journal of Engineering Project
 
 
 ## Changelog
