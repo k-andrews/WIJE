@@ -14,6 +14,16 @@
 
 	</main>
 
+    {*<aside id="sidebar" class="pkp_structure_sidebar left col-xs-12 col-sm-2 col-md-4" role="complementary" aria-label="{translate|escape key="common.navigation.sidebar"}">*}
+        {*<div class="cmp_notification {$type|escape|replace:' ':'_'} alert alert-info" role="alert">*}
+            {*{if $messageKey}*}
+                {*{translate key=$messageKey}*}
+            {*{else}*}
+                {*{$message}*}
+            {*{/if}*}
+        {*</div>*}
+    {*</aside><!-- pkp_sidebar.left -->*}
+
 	{* Sidebars *}
 	{if empty($isFullWidth)}
 		{call_hook|assign:"sidebarCode" name="Templates::Common::Sidebar"}
@@ -22,6 +32,7 @@
 				{$sidebarCode}
 			</aside><!-- pkp_sidebar.left -->
 		{/if}
+		
 	{/if}
   </div><!-- pkp_structure_content -->
 

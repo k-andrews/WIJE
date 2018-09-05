@@ -1,5 +1,5 @@
 <?php
-
+ini_set('display_errors', E_ALL);
 /**
  * @mainpage OJS API Reference
  *

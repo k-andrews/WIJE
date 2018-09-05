@@ -46,17 +46,17 @@
         </a>
       </li>
       <li>
-        <a href="http://snickdx.me/ojs/index.php/testj/advisors">
+        <a href="http://159.65.218.202/ojs/index.php/wije/advisors">
           International Advisory Committee
         </a>
       </li>
       <li>
-        <a href="http://snickdx.me/ojs/index.php/testj/editorial">
+        <a href="http://159.65.218.202/ojs/index.php/wije/editorial">
           Editorial Board
         </a>
       </li>
       <li>
-        <a href="http://snickdx.me/ojs/index.php/testj/staff">
+        <a href="http://159.65.218.202/ojs/index.php/wije/staff">
           Editorial Sub Committee
         </a>
       </li>
