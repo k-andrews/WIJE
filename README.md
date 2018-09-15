@@ -1,5 +1,14 @@
 # West Indian Journal of Engineering Project
 
+## Email Configuration on Server
+
+Configured SMTP with that gmail account:
+TODO: list of steps
+
+To avoid Google (Gmail) detecting attempts to send email as suspicious activity, verify that application is a bonafide application on the accounts activity page.
+TODO: list of steps
+
+Etc.
 
 ## Changelog
  
